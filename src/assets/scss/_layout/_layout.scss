@@ -1,0 +1,9 @@
+@import "./header";
+@import "./sider";
+.container{
+    height: 100%;
+    overflow: hidden;
+    .content{
+        padding: 24px;
+    }
+}

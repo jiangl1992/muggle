@@ -1,0 +1,9 @@
+.panel{
+    background-color: #fff;
+    &Header{
+        padding: 16px 16px 0 16px;
+    }
+    &Body{
+        padding: 0 16px 24px 16px;
+    }
+}
